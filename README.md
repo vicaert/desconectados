@@ -1,19 +1,3 @@
-# Desconectados
-
-El ‘desarrollo’ humano y la tendencia a concentrar los servicios en las ciudades ha ido dando lugar
-a despoblamientos, incomunicaciones,...el círculo es recursivo: poblaciones dotadas de pocos
-servicios o de difícil acceso cuyos lugareños abandonan para “mejorar” su calidad de vida mientras
-que el despoblamiento no permite aumentar la dotación de servicios.
-
-¿Existen sin embargo tendencias inversas? ¿realmente estamos hablando de lugares desconectados o
-quizá dan lugar a una función concreta en este entramado de concentraciones urbanas?
-
-En el proyecto Desconectados queremos primero identificar los lugares de España más aislados (a
-partir de variables demográficas, de disponibilidad de servicios y accesibilidad) para
-posteriormente llevar a cabo un análisis que nos permita identificar la tendencia, así como la
-relación que establecen estos lugares con el territorio (actividad económica, función recreativa o
-turística, etc.).
-
 ## Descripción
 
 Desconectados pretende:
